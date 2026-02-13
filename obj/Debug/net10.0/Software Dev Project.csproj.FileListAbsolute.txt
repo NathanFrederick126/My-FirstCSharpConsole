@@ -1,0 +1,14 @@
+/Users/nathan_frederick30/Desktop/Software Dev Project/bin/Debug/net10.0/Software Dev Project
+/Users/nathan_frederick30/Desktop/Software Dev Project/bin/Debug/net10.0/Software Dev Project.deps.json
+/Users/nathan_frederick30/Desktop/Software Dev Project/bin/Debug/net10.0/Software Dev Project.runtimeconfig.json
+/Users/nathan_frederick30/Desktop/Software Dev Project/bin/Debug/net10.0/Software Dev Project.dll
+/Users/nathan_frederick30/Desktop/Software Dev Project/bin/Debug/net10.0/Software Dev Project.pdb
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/Software Dev Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/Software Dev Project.AssemblyInfoInputs.cache
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/Software Dev Project.AssemblyInfo.cs
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/Software Dev Project.csproj.CoreCompileInputs.cache
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/Software Dev Project.dll
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/refint/Software Dev Project.dll
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/Software Dev Project.pdb
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/Software Dev Project.genruntimeconfig.cache
+/Users/nathan_frederick30/Desktop/Software Dev Project/obj/Debug/net10.0/ref/Software Dev Project.dll
